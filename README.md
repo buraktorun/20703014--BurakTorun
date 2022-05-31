@@ -1,4 +1,4 @@
-#ÖNEMLİ 
+# ÖNEMLİ 
 
 1)ADMİN PANEL
   KULLANCI ADI: admin
