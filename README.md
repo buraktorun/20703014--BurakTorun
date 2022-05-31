@@ -1,4 +1,5 @@
-ÖNEMLİ 
+#ÖNEMLİ 
+
 1)ADMİN PANEL
   KULLANCI ADI: admin
   ŞİFRE: 1234
