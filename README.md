@@ -10,8 +10,8 @@
   Hocam öncelikle ödevi yapmaya başladığım zaman classroom da paylaştığınız " WPF masaüstü uygulaması " cümlesinden hem form kullanarak hem de xmal kullanalarak yapabilirsiniz anlamını çıkardım ve araştırdığım kadarıyla da arasındaki çok farkın olmadığını gördüm öyle olunca uygulamayı yaparken form kulllanarak tasarladım.Arkadaşlarım da sizin (doğru olmayarak) sorun olmaz dediğinizi söyledi ve bende uygulamaya devam ettim.
   
   
-# 20703014--BuraktTorun
-FITNESS CENTER WPF UYGULAMASI
+# FITNESS CENTER WPF UYGULAMASI
+20703014 BURAK TORUN
   Başlangıç olarak admin paneli tasarladım.Ayrıca Yanlış Ve Eksik Bİlgi Girildiği Taktirde Hata Veriyor.Doğru kullanıcı adı ve şifreyi girdikten sonra bizi anasayfaya atıyor.
   
   Anasayfa kısmında üst tarafta ÜYE ekleme, silme, güncelleme ve ödeme kısımları bulunuyor.
