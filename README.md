@@ -1,3 +1,4 @@
+# ÇALIŞTIĞINA DAİR VİDEO LİNKİ : https://www.youtube.com/watch?v=wZ4fSL0w674
 # ÖNEMLİ 
 
 1)ADMİN PANEL
